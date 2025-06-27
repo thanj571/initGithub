@@ -7,6 +7,18 @@ function sum(x,y){
     return x+y;
 }
 
+function subtract(x,y){
+    return x-y;
+}
+
+function multiply(x,y){
+    return x*y;
+}
+
+function divide(x,y){
+    return x/y;
+}
+
 
 let data_sum = sum(1,5)
 console.log(data_sum)
