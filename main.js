@@ -8,5 +8,11 @@ function sum(x,y){
 }
 
 
+function log(msg){
+    console.log(msg)
+}
+
 let data_sum = sum(1,5)
 console.log(data_sum)
+
+log('555')
